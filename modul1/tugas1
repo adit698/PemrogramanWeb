@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thrift Shop</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">Thrift Shop</div>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Shop</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="search-cart">
+      <input type="text" placeholder="Search...">
+      <a href="#" class="cart-icon">🛒</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Discover Unique Vintage Pieces</h1>
+    </section>
+    <section class="products">
+      <div class="product">
+        <img src="c:\Users\user\Downloads\jaket.jpg" alt="jaket" width="50" height="50">
+        <p>Product 1</p>
+        <span>$25</span>
+      </div>
+      <div class="product">
+        <img src="c:\Users\user\Downloads\celana.webp" alt="celana" width="50" height="50">
+        <p>Product 2</p>
+        <span>$35</span>
+      </div>
+      <!-- Add more product cards here -->
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-links">
+      <a href="#">Privacy Policy</a>
+      <a href="#">Terms of Service</a>
+      <a href="#">Customer Support</a>
+    </div>
+    <div class="social-media">
+      <a href="https://www.instagram.com/wdhiadt144p/">Instagram</a>
+      <a href="#">Facebook</a>
+      <a href="#">Twitter</a>
+    </div>
+    <div class="newsletter">
+      <input type="email" placeholder="Subscribe to our newsletter">
+      <button>Subscribe</button>
+    </div>
+  </footer>
+</body>
+</html>
